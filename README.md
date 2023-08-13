@@ -16,6 +16,16 @@
 - 实现了完整的Chrome Extension MV3项目Demo。
 
 
+## 安装项目
+执行：
+```
+npm install
+```
+或
+```
+yarn
+```
+
 ## 使用方法：开发环境
 
 > ※注：为方便演示接口请求，本Demo使用了mock.js，也配置了反向代理。
